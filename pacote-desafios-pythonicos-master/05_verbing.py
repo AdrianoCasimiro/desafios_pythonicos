@@ -18,7 +18,7 @@ def verbing(s):
         return s + 'ly'
     else:
         return s + 'ing'
-        # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
+    # --- Daqui para baixo são apenas códigos auxiliáries de teste. ---
 
 
 def test(f, in_, expected):
